@@ -1,0 +1,1 @@
+a:5:{s:4:"host";s:9:"localhost";s:6:"dbname";s:6:"testDB";s:4:"user";s:4:"root";s:8:"password";s:0:"";s:5:"table";s:4:"rfdd";}
